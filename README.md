@@ -1,5 +1,5 @@
 # pngd
-- ** SDL2 + Rust - Random Pixel Drawer for PNG files **
+- **SDL2 + Rust - Random Pixel Drawer for PNG files**
 - This project reads a PNG file and draws randomly selected pixels in an SDL2 window using Rust.
 
 ## Requirements
