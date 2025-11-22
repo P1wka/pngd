@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- Rust
+- Rust (cargo package
 - SDL2 library and `SDL2.dll` (for Windows)
 - PNG file (`file.png`)
 
